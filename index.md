@@ -1,37 +1,57 @@
-## Welcome to TomJerryFly 's Blog Room
+## 欢迎来到小于的博客！
 
-You can use the [editor on GitHub](https://github.com/TomJerryFly/tomjerryfly.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[https://xiaoyudxz.github.io](我的小站)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。但是，聪明的，你告诉我，我们的日子为什么一去不复返呢？——是有人偷了他们罢：那是谁？又藏在何处呢？是他们自己逃走了罢：现在又到了哪里呢？我不知道他们给了我多少日子；但我的手确乎是渐渐空虚了。在默默里算着，八千多日子已经从我手中溜去；像针尖上一滴水滴在大海里，我的日子滴在时间的流里，没有声音，也没有影子。我不禁头涔涔而泪潸潸了。去的尽管去了，来的尽管来着；去来的中间，又怎样地匆匆呢？早上我起来的时候，小屋里射进两三方斜斜的太阳。太阳他有脚啊，轻轻悄悄地挪移了；我也茫茫然跟着旋转。于是——洗手的时候，日子从水盆里过去；吃饭的时候，日子从饭碗里过去；默默时，便从凝然的双眼前过去。我觉察他去的匆匆了，伸出手遮挽时，他又从遮挽着的手边过去，天黑时，我躺在床上，他便伶伶俐俐地从我身上跨过，从我脚边飞去了。等我睁开眼和太阳再见，这算又溜走了一日。我掩着面叹息。但是新来的日子的影儿又开始在叹息里闪过了。在逃去如飞的日子里，在千门万户的世界里的我能做些什么呢？只有徘徊罢了，只有匆匆罢了；在八千多日的匆匆里，除徘徊外，又剩些什么呢？过去的日子如轻烟，被微风吹散了，如薄雾，被初阳蒸融了；我留着些什么痕迹呢？我何曾留着像游丝样的痕迹呢？我赤裸裸来到这世界，转眼间也将赤裸裸的回去罢？但不能平的，为什么偏要白白走这一遭啊？
 
-### Markdown
+——朱自清《匆匆》
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[AK_IOI](https://www.ak-ioi.com/apps/oi-2048/)
 
-```markdown
-Syntax highlighted code block
+你是第![](http://www.hit-counts.com/counter.php?t=MTQ1ODEyMg==)个看此弱鸡个人主页的人
 
-# Header 1
-## Header 2
-### Header 3
+${\color{white}\colorbox{black}{刮刮乐}}$
 
-- Bulleted
-- List
+${\color{black}\colorbox{black}{痛打老师}}$ ${\color{black}\colorbox{black}{是个人才}}$ ${\color{black}\colorbox{black}{考试满分}}$ ${\color{black}\colorbox{black}{运气真差}}$
 
-1. Numbered
-2. List
+一群科学家死后在天堂里藏猫猫，爱因斯坦抓人，他数到100睁开眼睛，看到所有人都藏起来了，只见伏特趴在不远处。
 
-**Bold** and _Italic_ and `Code` text
+爱因斯坦走过去说：“伏特，我抓住你了。”
 
-[Link](url) and ![Image](src)
-```
+伏特说：“不，你没有抓到我。”
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+爱因斯坦：“你不是伏特你是谁？”
 
-### Jekyll Themes
+伏特：“你看我身下是什么？”
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TomJerryFly/tomjerryfly.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+爱因斯坦低头看到在伏特身下，居然是安培！
 
-### Support or Contact
+伏特：“我身下是安培，我俩就是伏特/安培，所以你抓住的不是我，你抓住的是.”
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+欧姆！
+
+爱因斯坦反应迅速，于是改口喊，“欧姆，我抓住你了！”
+
+说时迟那时快，伏特和安培一个鱼跃站了起来，但是仍然紧紧抱在一起，
+
+爱因斯坦大惑～
+
+他俩不紧不慢地说，现在，我们不再是欧姆，而是伏特×安培， 变成瓦特了～
+
+爱因斯坦觉得有道理，于是喊，那我终于抓到你了，瓦特！
+
+这时候，安培慢慢悠悠地说：“你看我俩这样抱着已经有好几秒了，所以，我们不再是瓦特，而是瓦特×秒， 我们现在是焦耳啦～”
+
+爱因斯坦被说的哑口无言，于是默默地转过身，这时，他看到牛顿站在不远处，爱因斯坦于是跑过去说：“牛顿，我抓住你了。”
+
+牛顿：“不，你没有抓到牛顿。” 爱因斯坦：“你不是牛顿你是谁？”
+
+牛顿：“你看我脚下是什么？”
+
+爱因斯坦低头看到牛顿站在一块长宽都是一米的正方形的地板砖上，不解。
+
+牛顿：“我脚下这是一平方米的方块，我站在上面就是牛顿/平方米，所以你抓住的不是牛顿，你抓住的是帕斯卡”
+
+爱因斯坦倍受挫折，终于忍无可忍地爆发了，于是飞起一脚，踹在牛顿身上，把牛顿踹出了那块一平米的地板砖，然后吼到：“说！你还敢说你是帕斯卡？？”
+
+牛顿慢慢地从地上爬起来，说：“不，我已经不是帕斯卡了，你刚刚让我牛顿移动了一米的距离，所以，我现在也是焦耳了”
